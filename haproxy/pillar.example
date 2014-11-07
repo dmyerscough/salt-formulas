@@ -1,0 +1,6 @@
+
+vip: '192.168.3.25'
+vip_int: 'bond0'
+
+haproxy_username: 'admin'
+haproxy_password: 'secret'
